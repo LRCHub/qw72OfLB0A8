@@ -1,0 +1,67 @@
+# ROSÉ – Messy
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You and I are tangled as
+these sheets
+I'm alive,
+but I can barely breathe
+With your arms around me,
+it feels like I'm drownin'
+If I reach for somethin'
+I can't keep
+How bad could it really be?
+So, baby, let's get messy,
+let's get all the way undone
+Come over,
+undress me just like I've
+never been touched
+Baby,
+I'm obsessed with you
+and there's no replica
+Maybe if it's messy,
+if it's messy, if it's messy
+Then you know it's really love
+I want all of your complicated
+Give me hell and all of
+your worst
+When the party's over and
+I'm screamin', "I hate it"
+How bad could it really hurt
+If tonight we just let it burn?
+So, baby, let's get messy,
+let's get all the way undone
+Come over,
+undress me just like I've
+never been touched
+Baby,
+I'm obsessed with you
+and there's no replica
+Maybe if it's messy,
+if it's messy, if it's messy
+Then you know it's really love,
+love
+You're pullin' back and
+I'm runnin' for the door
+You're sayin' those words and
+it just makes me want you more
+A second chance with our
+hearts on the floor
+Guess it's love
+So, baby, let's get messy,
+let's get all the way undone
+Come over,
+undress me just like I've
+never been touched
+Baby,
+I'm obsessed with you
+and there's no replica
+Maybe if it's messy,
+if it's messy, if it's messy
+Then you know it's really love
+Love
+(Then you know it's really)
+Love
+Love
+```
