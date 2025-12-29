@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Messy",
+  "base_artist": "ROSÉ",
+  "createdAt": "2025-12-29T07:31:54.062986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Messy Love",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/01_Messy_Love_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Messy (feat. Teezo Touchdown & Bktherula)",
+      "artist": "Rico Nasty feat. Bktherula & Teezo Touchdown",
+      "has_synced": true,
+      "path": "select/02_Messy_(feat._Teezo_Touchdown_&_Bktherula)_Rico_Nasty_feat._Bktherula_&_Teezo_Touchdown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Messy (feat. Teezo Touchdown & Bktherula)",
+      "artist": "Rico Nasty",
+      "has_synced": true,
+      "path": "select/03_Messy_(feat._Teezo_Touchdown_&_Bktherula)_Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Lil Tracy",
+      "has_synced": true,
+      "path": "select/04_Messy_Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh Messy Life",
+      "artist": "Cap'n Jazz",
+      "has_synced": true,
+      "path": "select/05_Oh_Messy_Life_Cap'n_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/06_Messy_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "messy",
+      "artist": "serpentwithfeet",
+      "has_synced": true,
+      "path": "select/07_messy_serpentwithfeet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Sarah Lake",
+      "has_synced": true,
+      "path": "select/08_Messy_Sarah_Lake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Quavo feat. Takeoff",
+      "has_synced": true,
+      "path": "select/09_Messy_Quavo_feat._Takeoff.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Quavo & Takeoff",
+      "has_synced": true,
+      "path": "select/10_Messy_Quavo_&_Takeoff.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Messy Hunger",
+      "artist": "Rozz Dyliams",
+      "has_synced": false,
+      "path": "select/11_Messy_Hunger_Rozz_Dyliams.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Messy Hunger",
+      "artist": "Rozz Dyliams & Purpdogg",
+      "has_synced": false,
+      "path": "select/12_Messy_Hunger_Rozz_Dyliams_&_Purpdogg.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Quavo",
+      "has_synced": true,
+      "path": "select/13_Messy_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Messy Love (feat. Mura Masa)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/14_Messy_Love_(feat._Mura_Masa)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Messy",
+      "artist": "Kiiara",
+      "has_synced": true,
+      "path": "select/15_Messy_Kiiara.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "messy in heaven",
+      "artist": "venbee feat. goddard.",
+      "has_synced": true,
+      "path": "select/16_messy_in_heaven_venbee_feat._goddard..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "messy in heaven",
+      "artist": "venbee, goddard.",
+      "has_synced": true,
+      "path": "select/17_messy_in_heaven_venbee,_goddard..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Messy (From F1® The Movie)",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/pl_01_Messy_(From_F1®_The_Movie)_ROSÉ.txt"
+    }
+  ]
+}
